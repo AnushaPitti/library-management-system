@@ -1,0 +1,112 @@
+[
+    {
+        "id": "BK0001",
+        "title": "Python Programming",
+        "author": "Mark Lutz",
+        "isbn": "978-0-13-468599-1",
+        "category": "Programming",
+        "quantity": 3,
+        "available": 2,
+        "added_date": "2026-06-01 09:00:00"
+    },
+    {
+        "id": "BK0002",
+        "title": "Data Structures & Algorithms",
+        "author": "Thomas Cormen",
+        "isbn": "978-0-26-203384-8",
+        "category": "Technology",
+        "quantity": 2,
+        "available": 2,
+        "added_date": "2026-06-01 09:15:00"
+    },
+    {
+        "id": "BK0003",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "978-0-74-327356-5",
+        "category": "Fiction",
+        "quantity": 4,
+        "available": 3,
+        "added_date": "2026-06-02 10:00:00"
+    },
+    {
+        "id": "BK0004",
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "isbn": "978-0-55-310953-5",
+        "category": "Science",
+        "quantity": 2,
+        "available": 2,
+        "added_date": "2026-06-02 10:30:00"
+    },
+    {
+        "id": "BK0005",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "978-0-13-235088-4",
+        "category": "Programming",
+        "quantity": 3,
+        "available": 3,
+        "added_date": "2026-06-03 11:00:00"
+    },
+    {
+        "id": "BK0006",
+        "title": "Wings of Fire",
+        "author": "A.P.J. Abdul Kalam",
+        "isbn": "978-8-17-371146-6",
+        "category": "Biography",
+        "quantity": 5,
+        "available": 4,
+        "added_date": "2026-06-03 11:30:00"
+    },
+    {
+        "id": "BK0007",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "978-0-73-521129-2",
+        "category": "Self-Help",
+        "quantity": 3,
+        "available": 3,
+        "added_date": "2026-06-04 09:00:00"
+    },
+    {
+        "id": "BK0008",
+        "title": "Engineering Mathematics",
+        "author": "B.S. Grewal",
+        "isbn": "978-8-17-409587-0",
+        "category": "Mathematics",
+        "quantity": 2,
+        "available": 2,
+        "added_date": "2026-06-04 09:30:00"
+    },
+    {
+        "id": "BK0009",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "978-0-06-112241-5",
+        "category": "Fiction",
+        "quantity": 3,
+        "available": 3,
+        "added_date": "2026-06-05 10:00:00"
+    },
+    {
+        "id": "BK0010",
+        "title": "Instrumentation Engineering",
+        "author": "D. Patranabis",
+        "isbn": "978-8-12-032153-1",
+        "category": "Engineering",
+        "quantity": 2,
+        "available": 1,
+        "added_date": "2026-06-05 10:30:00"
+    },
+    {
+        "id": "BK0011",
+        "title": "PLACEBO",
+        "author": "Anusha Pitti",
+        "isbn": "149-0-79-175903-20",
+        "category": "Other",
+        "quantity": 2,
+        "available": 2,
+        "added_date": "2026-06-17 21:17:28"
+    }
+]

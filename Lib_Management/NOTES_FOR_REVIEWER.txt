@@ -1,0 +1,7 @@
+NOTES FOR REVIEWER
+==================
+Run: python library_management_system.py
+Login: admin / admin123 (or Register New User)
+Pre-loaded: 10 Books, 5 Students, 4 Transactions
+Features: 32 total (8 Mandatory + 7 Optional + 17 Additional)
+No external dependencies. Python 3.6+ only.

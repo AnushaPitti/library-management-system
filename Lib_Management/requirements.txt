@@ -1,0 +1,2 @@
+# No external dependencies. Python 3.6+ only.
+# Run: python library_management_system.py

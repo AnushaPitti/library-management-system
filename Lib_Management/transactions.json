@@ -1,0 +1,62 @@
+[
+    {
+        "txn_id": "TXN0001",
+        "book_id": "BK0001",
+        "book_title": "Python Programming",
+        "student_id": "ST0001",
+        "student_name": "Rahul Kumar",
+        "issue_date": "2026-06-10 10:00:00",
+        "due_date": "2026-06-24 10:00:00",
+        "return_date": null,
+        "fine": 0,
+        "status": "Issued"
+    },
+    {
+        "txn_id": "TXN0002",
+        "book_id": "BK0003",
+        "book_title": "The Great Gatsby",
+        "student_id": "ST0002",
+        "student_name": "Priya Sharma",
+        "issue_date": "2026-06-01 10:00:00",
+        "due_date": "2026-06-15 10:00:00",
+        "return_date": "2026-06-14 09:30:00",
+        "fine": 0,
+        "status": "Returned"
+    },
+    {
+        "txn_id": "TXN0003",
+        "book_id": "BK0006",
+        "book_title": "Wings of Fire",
+        "student_id": "ST0001",
+        "student_name": "Rahul Kumar",
+        "issue_date": "2026-05-20 10:00:00",
+        "due_date": "2026-06-03 10:00:00",
+        "return_date": "2026-06-08 10:00:00",
+        "fine": 10,
+        "status": "Returned"
+    },
+    {
+        "txn_id": "TXN0004",
+        "book_id": "BK0010",
+        "book_title": "Instrumentation Engineering",
+        "student_id": "ST0003",
+        "student_name": "Arun Reddy",
+        "issue_date": "2026-06-12 11:00:00",
+        "due_date": "2026-06-26 11:00:00",
+        "return_date": null,
+        "fine": 0,
+        "status": "Issued"
+    },
+    {
+        "txn_id": "TXN0005",
+        "book_id": "BK0011",
+        "book_title": "PLACEBO",
+        "student_id": "ST0006",
+        "student_name": "Anu",
+        "issue_date": "2026-06-17 21:21:11",
+        "due_date": "2026-07-01 21:21:11",
+        "return_date": "2026-06-17 21:21:52",
+        "fine": 0,
+        "status": "Returned"
+    }
+]

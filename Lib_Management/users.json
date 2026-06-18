@@ -1,0 +1,16 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "full_name": "Administrator",
+        "role": "Admin",
+        "registered_date": "2026-06-01 00:00:00"
+    },
+    {
+        "username": "Anu01",
+        "password": "Anu@2003",
+        "full_name": "Anusha",
+        "role": "Admin",
+        "registered_date": "2026-06-17 21:13:54"
+    }
+]

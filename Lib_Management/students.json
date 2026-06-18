@@ -1,0 +1,56 @@
+[
+    {
+        "id": "ST0001",
+        "name": "Rahul Kumar",
+        "email": "rahul.kumar@email.com",
+        "phone": "9876543210",
+        "course": "B.Tech CSE",
+        "registered_date": "2026-06-01 09:00:00",
+        "total_fines_paid": 10
+    },
+    {
+        "id": "ST0002",
+        "name": "Priya Sharma",
+        "email": "priya.sharma@email.com",
+        "phone": "9876543211",
+        "course": "B.Tech ECE",
+        "registered_date": "2026-06-01 09:30:00",
+        "total_fines_paid": 0
+    },
+    {
+        "id": "ST0003",
+        "name": "Arun Reddy",
+        "email": "arun.reddy@email.com",
+        "phone": "9876543212",
+        "course": "B.Tech EIE",
+        "registered_date": "2026-06-02 10:00:00",
+        "total_fines_paid": 0
+    },
+    {
+        "id": "ST0004",
+        "name": "Sneha Patel",
+        "email": "sneha.patel@email.com",
+        "phone": "9876543213",
+        "course": "B.Sc Physics",
+        "registered_date": "2026-06-03 11:00:00",
+        "total_fines_paid": 0
+    },
+    {
+        "id": "ST0005",
+        "name": "Vikram Singh",
+        "email": "vikram.singh@email.com",
+        "phone": "9876543214",
+        "course": "M.Tech CSE",
+        "registered_date": "2026-06-04 09:00:00",
+        "total_fines_paid": 0
+    },
+    {
+        "id": "ST0006",
+        "name": "Anu",
+        "email": "anushapitti12@gmail.com",
+        "phone": "9063718371",
+        "course": "EEE",
+        "registered_date": "2026-06-17 21:20:44",
+        "total_fines_paid": 0
+    }
+]
