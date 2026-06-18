@@ -4,7 +4,11 @@
   <img src="https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-CLI-lightgrey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-Level%20Internship-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-Internship-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/AnushaPitti/library-management-system">View Repository</a>
 </p>
 
 ---
@@ -14,7 +18,7 @@
 This project is a **Library Management System developed using Python** as part of an internship.  
 It helps manage daily library operations such as **book tracking, student handling, issuing and returning books, and fine calculation**.
 
-The system is built using a **Command-Line Interface (CLI)** and does not require any external libraries, making it lightweight and easy to run.
+The system is built using a **Command-Line Interface (CLI)** and requires **no external libraries**, making it lightweight and easy to use.
 
 ---
 
