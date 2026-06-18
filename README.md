@@ -1,0 +1,43 @@
+<h1 align="center">📚 Library Management System</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-CLI-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-Level%20Internship-orange?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Project Overview
+
+This project is a **Library Management System developed using Python** as part of an internship.  
+It helps manage daily library operations such as **book tracking, student handling, issuing and returning books, and fine calculation**.
+
+The system is built using a **Command-Line Interface (CLI)** and does not require any external libraries, making it lightweight and easy to run.
+
+---
+
+## ✨ Key Features
+
+✅ Book Management (Add, View, Update, Delete)  
+✅ Student Registration System  
+✅ Issue & Return Books  
+✅ Due Date Tracking (14 days)  
+✅ Fine Calculation (₹2/day)  
+✅ User Authentication (Login & Register)  
+✅ Auto ID Generation (BK0001, ST0001, TXN0001)  
+✅ Reports & Statistics  
+✅ Overdue Alerts  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **JSON (Data Storage)**
+- **Built-in Libraries (os, datetime)**
+
+---
+
+## 📂 Project Structure
