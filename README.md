@@ -45,3 +45,5 @@ The system is built using a **Command-Line Interface (CLI)** and requires **no e
 ---
 
 ## 📂 Project Structure
+<img width="1210" height="735" alt="menu" src="https://github.com/user-attachments/assets/cdcb6983-d51d-4ccd-a07e-7190d2581a7b" />
+
