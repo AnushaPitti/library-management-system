@@ -45,5 +45,48 @@ The system is built using a **Command-Line Interface (CLI)** and requires **no e
 ---
 
 ## 📂 Project Structure
-<img width="1210" height="735" alt="menu" src="https://github.com/user-attachments/assets/cdcb6983-d51d-4ccd-a07e-7190d2581a7b" />
+## 📸 Screenshots (Application Flow)
+
+### 🔹 1. Welcome Screen
+![Welcome](screenshots/welcome1.png)
+
+---
+
+### 🔹 2. User Login / Registration Page
+![Login/Register](screenshots/welcome2.png)
+
+---
+
+### 🔹 3. Main Menu (Dashboard)
+![Menu](screenshots/menu.png)
+
+---
+
+### 🔹 4. Add New Book
+![Add Book](screenshots/add-book.png)
+
+---
+
+### 🔹 5. View All Books
+![View Books](screenshots/view-books.png)
+
+---
+
+### 🔹 6. Search Book
+![Search Book](screenshots/search-book.png)
+
+---
+
+### 🔹 7. Issue Book
+![Issue Book](screenshots/issue-book.png)
+
+---
+
+### 🔹 8. Return Book
+![Return Book](screenshots/return-book.png)
+
+---
+
+### 🔹 9. System Exit / Logout
+![Exit](screenshots/exit.png)
 
