@@ -48,45 +48,30 @@ The system is built using a **Command-Line Interface (CLI)** and requires **no e
 ## 📸 Screenshots (Application Flow)
 
 ### 🔹 1. Welcome Screen
-![Welcome](screenshots/welcome1.png)
-
----
+<img width="1903" height="686" alt="welcome screen" src="https://github.com/user-attachments/assets/ac5c346f-8665-473a-b30f-234e58a747d1" />
 
 ### 🔹 2. User Login / Registration Page
-![Login/Register](screenshots/welcome2.png)
 
----
+<img width="1918" height="1002" alt="welcome page-1" src="https://github.com/user-attachments/assets/388e5638-9e3e-4605-bfe3-f422e3f4fd38" />
 
 ### 🔹 3. Main Menu (Dashboard)
-![Menu](screenshots/menu.png)
-
----
+<img width="1210" height="735" alt="menu" src="https://github.com/user-attachments/assets/a73ac424-a4df-48e7-a367-4247f6cf8f26" />
 
 ### 🔹 4. Add New Book
-![Add Book](screenshots/add-book.png)
-
----
+<img width="1918" height="1005" alt="Add book" src="https://github.com/user-attachments/assets/59b8c7ef-3ec7-4dc1-959f-43d2e809e331" />
 
 ### 🔹 5. View All Books
-![View Books](screenshots/view-books.png)
-
----
+<img width="1917" height="783" alt="view books" src="https://github.com/user-attachments/assets/94115a40-b5ca-48e5-b764-31df2cfb9cec" />
 
 ### 🔹 6. Search Book
-![Search Book](screenshots/search-book.png)
-
----
+<img width="1365" height="700" alt="Search book" src="https://github.com/user-attachments/assets/f9fee514-fcaa-49c4-bac1-e0f992fc9ad3" />
 
 ### 🔹 7. Issue Book
-![Issue Book](screenshots/issue-book.png)
-
----
+<img width="653" height="603" alt="Issue book" src="https://github.com/user-attachments/assets/55000b91-2b52-40d0-9a56-4adac84797ec" />
 
 ### 🔹 8. Return Book
-![Return Book](screenshots/return-book.png)
-
----
+<img width="1918" height="1026" alt="Return book" src="https://github.com/user-attachments/assets/51fa74d2-bb12-4ea1-8681-fc83b4d7cd12" />
 
 ### 🔹 9. System Exit / Logout
-![Exit](screenshots/exit.png)
+<img width="1916" height="1022" alt="Exit" src="https://github.com/user-attachments/assets/9f3bb66c-004c-4e90-ae57-e21265d10f41" />
 
